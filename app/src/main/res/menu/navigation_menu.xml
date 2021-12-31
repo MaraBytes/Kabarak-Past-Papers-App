@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/android"
+            android:icon="@drawable/ic_baseline_android_24"
+            android:title="Android"
+            android:checked="true"/>
+        <item
+            android:id="@+id/website"
+            android:icon="@drawable/ic_baseline_web_24"
+            android:title="Website"
+            android:checked="true"/>
+        <item
+            android:id="@+id/Students_portal"
+            android:icon="@drawable/ic_baseline_people_24"
+            android:title="Students portal"
+            android:checked="true"/>
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="Share" />
+        <item
+            android:id="@+id/support"
+            android:icon="@drawable/ic_baseline_people_24"
+            android:title="Support" />
+        <item
+            android:id="@+id/chat"
+            android:icon="@drawable/ic_baseline_people_24"
+            android:title="Chat" />
+    </group>
+</menu>

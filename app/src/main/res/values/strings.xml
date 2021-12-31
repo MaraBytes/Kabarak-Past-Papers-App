@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kabarak Past Papers</string>
+    <string name="open_drawer_message">Open</string>
+    <string name="close_drawer_message">Close</string>
+    <string name="email_title">Email</string>
+    <string name="options_title">Options</string>
+    <string name="alert_title">Alert</string>
+    <string name="dialer_title">Dialer</string>
+    <string name="info_title">Info</string>
+    <string name="map_title">Map</string>
+</resources>
